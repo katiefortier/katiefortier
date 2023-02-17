@@ -1,1 +1,1 @@
-# This repository is being created for the computing for science II class at Oklahoma Baptist University.
+# This repository was created for the computing for science II class at Oklahoma Baptist University.
